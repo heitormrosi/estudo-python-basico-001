@@ -5,3 +5,7 @@
 9.2. No arquivo [three_restaurant.py](./three_restaurant.py).
 
 9.3. No arquivo [users.py](./users.py).
+
+9.4. No arquivo [attended_people.py](./attended_people.py).
+
+9.5. No arquivo [login_attempts.py](./login_attempts.py).

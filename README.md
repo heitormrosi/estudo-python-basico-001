@@ -23,6 +23,7 @@
     6. [Dicionários](./1-conceitos-basicos/6-dicionarios/6-dicionarios.md)
     7. [Entrada de usuário e laços while](./1-conceitos-basicos/7-entrada-de-usuario-e-lacos-while/7-entrada-de-usuario-e-lacos-while.md)
     8. [Funções](./1-conceitos-basicos/8-funcoes/8-funcoes.md)
+    9. [Classes](./1-conceitos-basicos/9-classes/9-classes.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
