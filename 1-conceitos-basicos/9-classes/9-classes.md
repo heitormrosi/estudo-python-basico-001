@@ -9,3 +9,5 @@
 9.4. No arquivo [attended_people.py](./attended_people.py).
 
 9.5. No arquivo [login_attempts.py](./login_attempts.py).
+
+9.6. No arquivo [icecreamstand.py](./icecreamstand.py).
