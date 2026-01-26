@@ -11,3 +11,9 @@
 9.5. No arquivo [login_attempts.py](./login_attempts.py).
 
 9.6. No arquivo [icecreamstand.py](./icecreamstand.py).
+
+9.7. No arquivo [admin.py](./admin.py).
+
+9.8. No arquivo [privileges.py](./privileges.py).
+
+9.9. No arquivo [battery_upgrade.py](./battery_upgrade.py).
