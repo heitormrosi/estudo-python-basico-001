@@ -24,6 +24,7 @@
     7. [Entrada de usuário e laços while](./1-conceitos-basicos/7-entrada-de-usuario-e-lacos-while/7-entrada-de-usuario-e-lacos-while.md)
     8. [Funções](./1-conceitos-basicos/8-funcoes/8-funcoes.md)
     9. [Classes](./1-conceitos-basicos/9-classes/9-classes.md)
+    10. [Arquivos e exceções](./1-conceitos-basicos/10-arquivos-e-excecoes/10-arquivos-e-excecoes.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
