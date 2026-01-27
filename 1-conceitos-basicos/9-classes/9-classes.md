@@ -25,3 +25,7 @@
 9.12. No arquivo [many_modules.py](./many_modules.py).
 
 9.13. No arquivo [rp.py](./rp.py).
+
+9.14. No arquivo [data.py](./data.py).
+
+9.15. Ok, vou utilizar para estudar futuramente.
