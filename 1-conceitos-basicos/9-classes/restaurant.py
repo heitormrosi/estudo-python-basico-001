@@ -31,5 +31,6 @@ def main() -> None:
     res.open_restaurant()
 
 
+# Permite utilizar o arquivo como módulo.
 if __name__ == "__main__":
     main()

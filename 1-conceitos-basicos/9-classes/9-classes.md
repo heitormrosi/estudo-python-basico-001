@@ -17,3 +17,11 @@
 9.8. No arquivo [privileges.py](./privileges.py).
 
 9.9. No arquivo [battery_upgrade.py](./battery_upgrade.py).
+
+9.10. No arquivo [importing_restaurant.py](./importing_restaurant.py).
+
+9.11. No arquivo [importing_admin.py](./importing_admin.py).
+
+9.12. No arquivo [many_modules.py](./many_modules.py).
+
+9.13. No arquivo [rp.py](./rp.py).
