@@ -1,0 +1,3 @@
+Em Python, podemos criar variáveis.
+Em Python, as operações básicas de algoritmos são instruções simples.
+Em Python, a simplicidade permite focar mais em arquitetura.
