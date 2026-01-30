@@ -19,3 +19,10 @@
 10.9. No arquivo [cats_and_dogs_silent.py](./cats_and_dogs_silent.py).
 
 10.10. No arquivo [common_words.py](./common_words.py).
+
+10.11. Nos arquivos [favorite_number.py](./favorite_number.py) e 
+    [favorite_number_2.py](./favorite_number_2.py).
+
+10.12. No arquivo [remembering_f_number.py](./remembering_f_number.py).
+
+10.13. No arquivo [vcu.py](./vcu.py).
