@@ -25,6 +25,7 @@
     8. [Funções](./1-conceitos-basicos/8-funcoes/8-funcoes.md)
     9. [Classes](./1-conceitos-basicos/9-classes/9-classes.md)
     10. [Arquivos e exceções](./1-conceitos-basicos/10-arquivos-e-excecoes/10-arquivos-e-excecoes.md)
+    11. [Testando o seu código](./1-conceitos-basicos/11-testando-codigo/11-testando-codigo.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
