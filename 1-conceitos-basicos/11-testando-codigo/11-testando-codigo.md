@@ -8,6 +8,6 @@
 [test_cities.py](./population/test_cities.py), dentro do diretório 
 [population](./population/)
 
-11.3. Nos arquivos [employee.py](./population/employee.py) e 
-[test_employee.py](./population/test_employee.py), dentro do diretório 
+11.3. Nos arquivos [employee.py](./employee/employee.py) e 
+[test_employee.py](./employee/test_employee.py), dentro do diretório 
 [employee](./employee/)
