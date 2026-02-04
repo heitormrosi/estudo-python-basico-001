@@ -26,9 +26,9 @@
     9. [Classes](./1-conceitos-basicos/9-classes/9-classes.md)
     10. [Arquivos e exceções](./1-conceitos-basicos/10-arquivos-e-excecoes/10-arquivos-e-excecoes.md)
     11. [Testando o seu código](./1-conceitos-basicos/11-testando-codigo/11-testando-codigo.md)
+    12. [Uma espaçonave que atira](./2-projetos/alien-invasion/12-espaconave-atira/12-espaconave-atira.md)
  2. Projetos
     1. [Invasão Alienígena](https://github.com/heitormrosi/pygame-invasao-alienigena)
-     12. [Uma espaçonave que atira](./2-projetos/alien-invasion/12-espaconave-atira/12-espaconave-atira.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
