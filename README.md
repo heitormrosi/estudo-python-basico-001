@@ -28,6 +28,7 @@
     11. [Testando o seu código](./1-conceitos-basicos/11-testando-codigo/11-testando-codigo.md)
  2. Projetos
     1. [Invasão Alienígena](https://github.com/heitormrosi/pygame-invasao-alienigena)
+     12. [Uma espaçonave que atira](./2-projetos/alien-invasion/12-espaconave-atira/12-espaconave-atira.md)
     
 
 [Capa do repositório]: ./docs/capa-repo.webp
