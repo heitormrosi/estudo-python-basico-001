@@ -5,3 +5,5 @@
 12.2. No arquivo [game_player.py](./game_player/game_player.py).
 
 12.3. No arquivo [rocket.py](./rocket/rocket.py).
+
+12.4. No arquivo [keys.py](./keys.py).
