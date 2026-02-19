@@ -7,3 +7,5 @@
 12.3. No arquivo [rocket.py](./rocket/rocket.py).
 
 12.4. No arquivo [keys.py](./keys.py).
+
+12.5. No arquivo [spaceship_shooter.py](./spaceship_shooter/spaceship_shooter.py).
