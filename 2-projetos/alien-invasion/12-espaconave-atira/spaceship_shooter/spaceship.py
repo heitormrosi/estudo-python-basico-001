@@ -38,9 +38,7 @@ class Spaceship:
         for bullet in self.bullets.copy():
             if bullet.rect.right > self.screen_rect.right:
                 self.bullets.remove(bullet)
-        
-        print(self.bullets)
-        
+                del bullet
     
     def render(self) -> None:
         self.screen.blit(self.image, self.image_rect)
