@@ -7,3 +7,7 @@ class Settings:
         
         self.spaceship_filepath = "spaceship.png"
         self.spaceship_speed = 10
+        
+        self.bullet_size = (20, 5)
+        self.bullet_color = (40, 40, 40)
+        self.bullet_speed = 20

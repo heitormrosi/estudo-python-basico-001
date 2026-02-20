@@ -26,6 +26,8 @@ class SpaceshipShooter:
                         self.spaceship.moving_top = True
                     elif event.key == pg.K_s:
                         self.spaceship.moving_bottom = True 
+                    elif event.key == pg.K_SPACE:
+                        self.spaceship.shoot()
 
                 if event.type == pg.KEYUP:
                     if event.key == pg.K_w:

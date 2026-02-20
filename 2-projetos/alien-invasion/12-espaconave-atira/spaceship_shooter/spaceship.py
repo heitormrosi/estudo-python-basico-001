@@ -1,5 +1,6 @@
 import pygame as pg
 from settings import Settings
+from bullet import Bullet
 
 class Spaceship:
     def __init__(self, screen: pg.Surface, settings: Settings) -> None:
@@ -17,6 +18,14 @@ class Spaceship:
         
         self.moving_top = False
         self.moving_bottom = False
+        
+        self.bullets = pg.sprite.Group()
+    
+    def shoot(self) -> None:
+        if len(self.bullets) < 5:
+            self.bullets.add(Bullet(
+                self.image_rect.centerx, 
+                self.image_rect.centery, self.settings))
     
     def update(self) -> None:
         if self.moving_top and self.image_rect.top > self.screen_rect.top:
@@ -26,6 +35,15 @@ class Spaceship:
                 and self.image_rect.bottom < self.screen_rect.bottom:
             self.image_rect.y += self.settings.spaceship_speed
         
+        for bullet in self.bullets.copy():
+            if bullet.rect.right > self.screen_rect.right:
+                self.bullets.remove(bullet)
+        
+        print(self.bullets)
+        
     
     def render(self) -> None:
         self.screen.blit(self.image, self.image_rect)
+        
+        self.bullets.update()
+        self.bullets.draw(self.screen)
